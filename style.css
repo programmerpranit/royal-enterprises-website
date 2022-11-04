@@ -115,6 +115,10 @@ footer {
 
 }
 
+.wc {
+  background-color: rgb(243, 246, 255);
+}
+
 @media screen and (min-width: 800px) {
   .navbar-brand {
     width: 25%;
